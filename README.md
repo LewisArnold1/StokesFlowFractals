@@ -1,4 +1,4 @@
-# Dissertation Code: Numerical Methods for Simulating Particle Interactions
+# Dissertation Code: Stokes Flow Simulations of Fractal Aggregates in MATLAB
 
 This repository contains MATLAB scripts used in my dissertation project, which investigates drag on self-similar fractal aggregates of spheres in Stokes flow, in the continuum regime. The project uses two numerical methods: the **Method of Fundamental Solutions (MFS)** and the **Method of Reflections (MOR)**, supported by various utility scripts for efficient matrix construction and sphere positioning.
 
