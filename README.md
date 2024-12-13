@@ -8,7 +8,7 @@ This repository contains MATLAB scripts used in my dissertation project, which i
 
 The work presented here was conducted in collaboration with, and under the guidance of, my supervisor, **Duncan A. Lockerby**. I have his permission to share this code. The methodologies implemented build upon insights from the following paper, which you are encouraged to cite if extending this work:
 
-**Jordan, J.J.P., & Lockerby, D.A. (2024).** *The method of fundamental solutions for multi-particle Stokes flows: Application to a ring-like array of spheres.* Journal of Computational Physics. [https://doi.org/10.1016/j.jcp.2024.111235](https://doi.org/10.1016/j.jcp.2024.111235)
+**Jordan, J.J.P., & Lockerby, D.A. (2024).** *The method of fundamental solutions for multi-particle Stokes flows: Application to a ring-like array of spheres.* Journal of Computational Physics. [https://doi.org/10.1016/j.jcp.2024.111235](https://doi.org/10.1016/j.jcp.2024.113487)
 
 ---
 
